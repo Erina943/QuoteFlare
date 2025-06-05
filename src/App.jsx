@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div>
-      <div className="min-h-screen flex flex-col bg-gradient-to-br from-indigo-100 to-purple-200 dark:from-gray-900 dark:to-black p-6 pb-24 items-center">
+      <div className="font-Edu min-h-screen flex flex-col bg-gradient-to-br from-indigo-100 to-purple-200 dark:from-gray-900 dark:to-black p-6 pb-24 items-center">
         <h1 className="text-3xl font-bold mb-7 text-purple-900 dark:text-purple-300">
           {" "}
           QuoteFlare

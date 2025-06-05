@@ -12,7 +12,7 @@ const Favorites = ({ favorites, onRemove }) => (
           className="p-3 bg-white dark:bg-gray-700 rounded shadow flex justify-between items-center"
         >
           <div>
-            <p className="dark:text-white">"{q.text}"</p>
+            <p className="dark:text-white mb-2">"{q.text}"</p>
             <p className="text-sm text-gray-500 dark:text-gray-300 ">
               - {q.author}
             </p>
